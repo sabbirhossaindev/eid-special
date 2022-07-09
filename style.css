@@ -1,0 +1,191 @@
+body{
+    font-family: sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 45px
+}
+h2{
+    font-size: 38px;
+}
+p{
+    color: #878585;
+}
+.first-section{
+    background-image: url('img/home.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.donate-div{
+    color: white;
+    padding: 8%;
+}
+.donate-btn{
+    padding: 10px 40px;
+    background-color: #EF233C;
+    border: none;
+    border-radius: 8px;
+}
+.donate-btn a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+}
+
+/* done */
+
+.iframe-main{
+    display: flex;
+    padding: 10%;
+}
+.vedio{
+    padding-left: 12%;
+}
+iframe{
+    border-radius: 4%;
+}
+.explor-btn{
+    padding: 10px 40px;
+    background-color: #EF233C;
+    border: none;
+    border-radius: 8px;
+}
+.explor-btn a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+}
+/* done */
+.allah-huakber-main{
+    display: flex;
+}
+.me-img{
+    margin-left: 10%;
+}
+main div img{
+    border-radius: 10px;
+}
+.allah-huakber-div{
+    margin-left: 10%;
+}
+/* done */
+.kurbani-first-div{
+    text-align: center;
+    margin-top: 60px;
+
+}
+.main-dittal-parents{
+    display: flex;
+    margin-top: 6%;
+}
+.some-dittal{
+    display: flex;
+    width: 40%;
+    margin-left: 10%;
+    padding: 10px;
+    background-color: #FEF4F5;
+    border-radius: 5px;
+}
+.some-dittal-2{
+    display: flex;
+    width: 40%;
+    margin-left: 1%;
+    padding: 10px;
+    background-color: #FEF4F5;
+    border-radius: 5px;
+}
+.main-dittal-parents-2{
+    display: flex;
+    margin-top: 1%;
+}
+.about-samthing-div{
+    padding-left: 20px;
+}
+
+/* end */
+.cad-rat{
+    text-align: center;
+}
+.main-chai-rat-img{
+    display: flex;
+}
+.cadday-img{
+    display: flex;
+    padding: 15%;
+    margin-top: -140px;
+}
+.img-2{
+    margin-left: 5%;
+}
+/* end */
+.first-below-div{
+    text-align: center;
+    margin-top: -190px;
+}
+.meet-div-flex{
+    display: flex;
+    padding: 10%;
+    margin-top: -90px;
+}
+.paddimg-meet{
+    padding: 20px;
+}
+.meet-btn{
+    padding: 10px 40px;
+    background-color: #EF233C;
+    border: none;
+    border-radius: 8px;
+}
+.meet-btn a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+}
+.border-meet-div{
+    border: 1px solid gray;
+    box-shadow: 4px 4px 6px gray;
+    border-radius: 10px;
+    margin: 2% 2%;
+}
+
+.cow-goat-section{
+    margin-top: -220px;
+}
+
+/* end */
+.gift{
+    text-align: center;
+    margin-top: -90px;
+}
+.eid-gift-img{
+    display: flex;
+}
+.gift-img{
+    display: flex;
+    padding: 15%;
+    margin-top: -180px;
+    border: none;
+}
+.img-2{
+    margin-left: 5%;
+}
+/* footer section start  */
+footer{
+    background-color: black;
+    height: 140px;
+    text-align: center;
+    margin-top: 75px;
+    margin-top: -130px;
+}
+footer h3{
+    font-family: cursive;
+}
+footer p{
+    font-size: 13px;
+    color: white;
+}
+.eid-mubarak{
+    color: crimson;
+}
+/* footer section end  */
