@@ -1,5 +1,5 @@
 body{
-    font-family: sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 0%;
 }
 h1{
@@ -156,7 +156,7 @@ main div img{
 /* end */
 .gift{
     text-align: center;
-    margin-top: -90px;
+    margin-top: -50px;
 }
 .eid-gift-img{
     display: flex;
@@ -164,7 +164,7 @@ main div img{
 .gift-img{
     display: flex;
     padding: 15%;
-    margin-top: -180px;
+    margin-top: -120px;
     border: none;
 }
 .img-2{
